@@ -2,7 +2,7 @@ package be.nadira;
 
 import java.util.Scanner;
 
-public class Task2 {
+public class StringExchange {
     public static void main(String[] args) {
 
         String str2 = "learn programming";
